@@ -1,6 +1,4 @@
-## About
+## Dolibarr
 
-This repository is forked from ONLYOFFICE/Docker-CommunityServer, we have the following modifications are provided
-
-* replace README.md
-* add README-zh.md, CHANGELOG.md, Note.md, License.md, docker-compose.yml,.env, src, .github folder
+本项目基于[tuxgasy/dolibarr](https://hub.docker.com/r/tuxgasy/dolibarr) 安装。
+容器启动后会自动完成初始化过程
