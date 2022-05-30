@@ -1,7 +1,6 @@
 # image: https://hub.docker.com/r/tuxgasy/dolibarr
 # docs: https://github.com/tuxgasy/docker-dolibarr
 
-
 version: '3.8'
 
 services:
