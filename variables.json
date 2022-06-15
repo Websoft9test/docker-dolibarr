@@ -1,7 +1,7 @@
 {
   "name": "dolibarr",
   "trademark": "Dolibarr",
-  "installpath": "/data/wwwroot/dolibarr",
+  "installpath": "/data/apps/dolibarr",
   "compose_file": "docker-compose.yml",
   "fork_url": "https://github.com/tuxgasy/docker-dolibarr",
   "env_file": ".env_all",
